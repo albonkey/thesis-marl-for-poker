@@ -1,4 +1,4 @@
-# Reinforcemnet Learning in No Limit Texas Holdem
+# Reinforcement Learning in No Limit Texas Holdem
 ### RLCard: A Toolkit for Reinforcement Learning in Card Games
 RLCard is a toolkit for Reinforcement Learning (RL) in card games. It supports multiple card environments with easy-to-use interfaces for implementing various reinforcement learning and searching algorithms. The goal of RLCard is to bridge reinforcement learning and imperfect information games. RLCard is developed by [DATA Lab](http://faculty.cs.tamu.edu/xiahu/) at Rice and Texas A&M University, and community contributors.
 
